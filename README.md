@@ -22,8 +22,7 @@
 
 ## Etape 4 - Analyse des différents indicateurs de vente
 
-### I - Différents indicateurs & graphiques représentant le chiffre d'affaires dans le temps
-
+#### I - Différents indicateurs & graphiques représentant le chiffre d'affaires dans le temps
 I.1 - Calcul du chiffre d'affaires total et du nombre total de ventes
 
 I.2 - Calcul du chiffre d'affaires total et du nombre de ventes par catégorie
@@ -40,4 +39,28 @@ I.7 - Représentation graphique du chiffre d'affaires par jour
 
 I.8 - Observation du mois d'octobre 2021
 
-### II - Zoom sur les références
+#### II - Zoom sur les références
+II.1 - Tops & flops par chiffre d'affaires
+
+II.2 - Tops et flops en nombre de ventes
+
+
+II.3 - Tops & flops par catégorie (en chiffre d'affaires)
+
+II.4 - Tops & flops par catégorie d'âge (en chiffre d'affaires)
+
+ #### III - Profils clients
+ III.1 - Top clients
+ 
+## Etape 5 - Analyse plus ciblée sur les clients
+5.1 - Lien entre le genre des clients et les catégorie des livres achetés
+
+5.2 - Lien entre l'âge des clients et le montant total des achats
+
+5.3 - Lien entre l'âge des clients et la fréquence d'achat
+
+5.4 - Lien entre l'âge des clients et la taille du panier moyen
+
+5.5 - Lien entre l'âge des clients et les catégories de livres achetés
+
+
