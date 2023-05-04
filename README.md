@@ -21,7 +21,8 @@
 ## Etape 3 - Création d'un data frame Ventes
 
 ## Etape 4 - Analyse des différents indicateurs de vente
-I - Différents indicateurs & graphiques représentant le chiffre d'affaires dans le temps
+
+### I - Différents indicateurs & graphiques représentant le chiffre d'affaires dans le temps
 
 I.1 - Calcul du chiffre d'affaires total et du nombre total de ventes
 
@@ -39,4 +40,4 @@ I.7 - Représentation graphique du chiffre d'affaires par jour
 
 I.8 - Observation du mois d'octobre 2021
 
-II - Zoom sur les références
+### II - Zoom sur les références
