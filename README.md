@@ -21,7 +21,6 @@
 ## Etape 3 - Création d'un data frame Ventes
 
 ## Etape 4 - Analyse des différents indicateurs de vente
-
 #### I - Différents indicateurs & graphiques représentant le chiffre d'affaires dans le temps
 I.1 - Calcul du chiffre d'affaires total et du nombre total de ventes
 
@@ -44,12 +43,11 @@ II.1 - Tops & flops par chiffre d'affaires
 
 II.2 - Tops et flops en nombre de ventes
 
-
 II.3 - Tops & flops par catégorie (en chiffre d'affaires)
 
 II.4 - Tops & flops par catégorie d'âge (en chiffre d'affaires)
 
- #### III - Profils clients
+#### III - Profils clients
  III.1 - Top clients
  
 ## Etape 5 - Analyse plus ciblée sur les clients
