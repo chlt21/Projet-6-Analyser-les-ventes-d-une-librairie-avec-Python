@@ -1,6 +1,6 @@
 # Analyse des ventes en ligne d'une librairie 
 
-#### Compétences cibles
+#### Compétences cibles :
   - Analyser des séries temporelles
   - Réaliser une analyse bivariée pour interpréter des données
   - Réaliser un test statistique
@@ -8,18 +8,35 @@
 #### Analyse exploratoire
 ## Etape 1 - Importation des librairies et chargement des fichiers
 1.1 - Importation des librairies
-1.2 - Importation des fichiers
-## Etape 2 - Questions de Marc
-2.1 - Calcul de la proportion de personnes en état de sous-nutrition
 
-2.2 - Calcul du nombre théorique de personnes qui pourraient être nourries
+1.2 - Importation des fichiers et nettoyage des données
 
-2.3 - Calcul du nombre théorique de personnes qui pourraient être nourries avec des produits végétaux
+## Etape 2 - Création d'un nouveau data frame lapage
+2.1 - Fusion des fichiers customers & transactions
 
-2.4 - Disponibilité intérieure utilisée, part attribuée à l'alimentation animale, celle attribuée à l'alimentation humaine et celle perdue
-## Etape 3 - Questions de Julien
-3.1 - Utilisation des céréales : répartition entre l'alimentation humaine et l'alimentation pour animaux
+2.2 - Fusion des fichiers customers,transactions & products
 
-3.2 - Utilisation du manioc aux égards de la proportion de personnes en sous-nutrition 
-## Etape 4 - Questions de Mélanie
-4.1 - Liste des pays pour lesquels la proportion de personnes sous-alimenatées est la plus forte en 2017, ceux qui ont bénéficié d'aide depuis 2013, ceux ayant le moins de disponibilité alimentaire par habitant et ceux ayant le moins de disponibilité intérieur
+2.3 - Nettoyage des données du data frame lapage
+
+## Etape 3 - Création d'un data frame Ventes
+
+## Etape 4 - Analyse des différents indicateurs de vente
+I - Différents indicateurs & graphiques représentant le chiffre d'affaires dans le temps
+
+I.1 - Calcul du chiffre d'affaires total et du nombre total de ventes
+
+I.2 - Calcul du chiffre d'affaires total et du nombre de ventes par catégorie
+
+I.3 - Calcul du chiffre d'affaires et du nombre de ventes par catégorie d'âge
+
+I.4 - Calcul du chiffre d'affaires et du nombre de ventes par année
+
+I.5 - Calcul du chiffre d'affaires et du nombre de ventes par année
+
+I.6 - Représentation graphique du chiffre d'affaires et du nombre de ventes par mois
+
+I.7 - Représentation graphique du chiffre d'affaires par jour
+
+I.8 - Observation du mois d'octobre 2021
+
+II - Zoom sur les références
