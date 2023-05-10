@@ -6,6 +6,7 @@
   - Réaliser une analyse bivariée pour interpréter des données
   - Réaliser un test statistique
 
+
 #### Analyse exploratoire
 ## Etape 1 - Importation des librairies et chargement des fichiers
 1.1 - Importation des librairies
