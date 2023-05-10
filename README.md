@@ -1,5 +1,6 @@
 # Analyse des ventes en ligne d'une librairie 
 
+
 #### Compétences cibles :
   - Analyser des séries temporelles
   - Réaliser une analyse bivariée pour interpréter des données
